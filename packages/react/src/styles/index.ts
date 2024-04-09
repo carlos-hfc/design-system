@@ -1,11 +1,11 @@
 import {
-    colors,
-    fonts,
-    fontSizes,
-    fontWeights,
-    lineHeights,
-    radii,
-    space,
+  colors,
+  fonts,
+  fontSizes,
+  fontWeights,
+  lineHeights,
+  radii,
+  space,
 } from "@carlos-hfc-ignite-ui/tokens"
 import { createStitches, defaultThemeMap } from "@stitches/react"
 
