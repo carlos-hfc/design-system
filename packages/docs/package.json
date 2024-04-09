@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@carlos-hfc-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@carlos-hfc-ignite-ui/eslint-config": "*",
+    "@carlos-hfc-ignite-ui/react": "*",
+    "@carlos-hfc-ignite-ui/tokens": "*",
+    "@carlos-hfc-ignite-ui/ts-config": "*",
     "@phosphor-icons/react": "^2.1.4",
     "polished": "^4.3.1",
     "react": "^18.2.0",

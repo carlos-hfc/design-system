@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@carlos-hfc-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@carlos-hfc-ignite-ui/eslint-config": "*",
+    "@carlos-hfc-ignite-ui/tokens": "*",
+    "@carlos-hfc-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.74",
     "@types/react-dom": "^18.2.24",
     "react": "^18.2.0",
