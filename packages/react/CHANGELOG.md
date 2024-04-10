@@ -1,5 +1,11 @@
 # @carlos-hfc-ignite-ui/react
 
+## 2.1.0
+
+### Minor Changes
+
+- add new components
+
 ## 2.0.1
 
 ### Patch Changes
