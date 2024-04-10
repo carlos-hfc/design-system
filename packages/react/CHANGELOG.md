@@ -1,5 +1,11 @@
 # @carlos-hfc-ignite-ui/react
 
+## 2.1.2
+
+### Patch Changes
+
+- update placeholder color
+
 ## 2.1.1
 
 ### Patch Changes
